@@ -1,1 +1,5 @@
-https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8?sid=J8Le5ihO1UqpSUsxsAY3KA
+{
+  "stream_name": "Peace TV Urdu",
+  "stream_url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8?sid=J8Le5ihO1UqpSUsxsAY3KA",
+  "SetLive": true
+}
